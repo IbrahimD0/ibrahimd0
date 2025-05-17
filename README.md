@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Dobashi</h1>
 <h3 align="center">A passionate full-stack engineer</h3>
 
+- 🔭 I’m currently working on **Redyt and LinkedLog**
+
+- 🌱 I’m currently learning **AI agents and workflows**
+
+- 👯 I’m looking to collaborate on **AI and full-stack projects**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **ibrahim.m.dobashi@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
