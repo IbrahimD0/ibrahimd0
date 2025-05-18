@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Dobashi</h1>
+
 - 🔭 I’m currently working on **Redyt and LinkedLog**
 
 - 🌱 I’m currently learning **AI agents and workflows**
